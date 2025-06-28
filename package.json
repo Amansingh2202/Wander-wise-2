@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.7.4",
+    "cohere-ai": "^7.14.0",
+    "dotenv": "^16.4.5",
+    "express-session": "^1.18.0",
+    "firebase": "^11.0.1",
+    "passport": "^0.7.0",
+    "passport-facebook": "^3.0.0",
+    "passport-google-oauth20": "^2.0.0",
+    "react-router-dom": "^6.26.0"
+  }
+}
